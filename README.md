@@ -1,6 +1,6 @@
 # Laravel DevOps Demo Project
 
-![PUSH Workflow](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml/badge.svg)
+[![PUSH Workflow](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml/badge.svg)](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml)
 ## (Cloned from) Laravel DevOps Demo Project
 
 Original project -> http://laravelfromscratch.com
