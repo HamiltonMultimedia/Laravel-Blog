@@ -23,7 +23,7 @@ jobs:
       - name: Copy .env
         run: php -r "file_exists('.env') || copy('.env.example', '.env');"
       - name: Run Composer Update
-        run: composer update --ignore-platform-reqs
+        run: composer update 
       - name: Install NPM Dependencies
         run: npm install
       - name: Generate Key
@@ -78,7 +78,7 @@ jobs:
           php-version: 7.4
           extension-csv: mbstring, bcmath
       - name: Run Composer Update
-        run: composer update --ignore-platform-reqs
+        run: composer update 
       - name: Setup Deployer
         uses: atymic/deployer-php-action@master
         with:
