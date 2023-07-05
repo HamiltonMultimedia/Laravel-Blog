@@ -1,6 +1,6 @@
 # Laravel From Scratch Blog Demo Project
 
-![example workflow](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml/badge.svg)
+![PUSH Workflow](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml/badge.svg)
 
 http://laravelfromscratch.com
 
