@@ -8,7 +8,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.2.0 || ^8.0",
+        "php": "^7.4.24",
         "deployer/deployer": "*",
         "deployer/recipes": "*",
         "fideloper/proxy": "^4.4",
