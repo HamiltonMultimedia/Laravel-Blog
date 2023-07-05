@@ -2,7 +2,7 @@
 
 ![PUSH Workflow](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml/badge.svg)
 
-http://laravelfromscratch.com
+Original project -> http://laravelfromscratch.com
 
 ## Installation
 
