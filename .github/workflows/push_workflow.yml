@@ -77,8 +77,8 @@ jobs:
         with:
           php-version: 7.4
           extension-csv: mbstring, bcmath
-      - name: Composer install
-        run: composer install -q --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist
+      - name: Run Composer Update
+        run: composer update --ignore-platform-reqs
       - name: Setup Deployer
         uses: atymic/deployer-php-action@master
         with:
