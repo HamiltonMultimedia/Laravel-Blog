@@ -7,7 +7,7 @@ require 'recipe/laravel.php';
 
 set('default_stage', 'staging');
 
-add('shared_files', []);
+add('shared_files', ['.env']);
 add('shared_dirs', []);
 add('writable_dirs', []);
 
@@ -18,7 +18,7 @@ set('branch', 'dev');
 
 host('laravel-blog.terencehamilton.com')
     ->set('remote_user', 'terence_p_hamilton')
-    ->set('deploy_path', '~/laravel-blog');
+    ->set('deploy_path', '/var/www/laravel-blog');
 
 // Hooks
 
