@@ -6,6 +6,7 @@ require 'recipe/laravel.php';
 // Config
 
 set('default_stage', 'staging');
+set('use_relative_symlinks', false);
 
 add('shared_files', ['.env']);
 add('shared_dirs', []);
