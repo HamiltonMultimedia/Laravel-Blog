@@ -13,7 +13,7 @@ add('shared_dirs', []);
 add('writable_dirs', []);
 
 set('repository', 'git@github.com:HamiltonMultimedia/Laravel-Blog.git');
-set('branch', 'dev');
+set('branch', 'darkmode');
 
 // Hosts
 
