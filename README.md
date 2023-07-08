@@ -2,13 +2,15 @@
 
 ![PUSH Workflow](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml/badge.svg)
 
-Cloned from original [Laravel from Scratch codebase](https://github.com/JeffreyWay/Laravel-From-Scratch-Blog-Project) by Jeffrey Way 
+Cloned from original [Laravel from Scratch codebase](https://github.com/JeffreyWay/Laravel-From-Scratch-Blog-Project) by Jeffrey Way
 
 Here's the tutorial he released [Laravel from Scratch](http://laravelfromscratch.com)
 
 I added darkmode via [Tailwindcss](https://tailwindcss.com/)
 
-![Added Darkmode](public/images/screen-shot.png)
+Click [here](https://www.laravel-blog.terencehamilton.com/) to see my website or click the image below.👇🏾
+
+[![Added Darkmode](public/images/screen-shot.png)](https://www.laravel-blog.terencehamilton.com/)
 
 ## Installation
 
