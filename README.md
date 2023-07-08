@@ -14,7 +14,7 @@ Click [here](https://www.laravel-blog.terencehamilton.com/) to see my website or
 
 ## Installation
 
-First clone this repository, switch to the darkmode branch install the dependencies, and setup your .env file.
+First clone this repository, switch to the darkmode branch, install the dependencies, and setup your .env file.
 
 ```
 git clone git@github.com:HamiltonMultimedia/Laravel-Blog.git blog
