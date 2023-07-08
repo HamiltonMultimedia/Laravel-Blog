@@ -8,7 +8,7 @@
             {{ $posts->links() }}
         @else
             <p class="text-center">No posts yet. Please check back later.</p>
-            <p class="text-center">Welcome, are you enjoying the darkside?</p>
+            <p class="text-center">Check out my <span class="text-blue-500"><a href="https://github.com/HamiltonMultimedia/Laravel-Blog" target="_blank">code</a></span> & my acutal blog is located <span class="text-blue-500"><a href="https://terencehamilton.com/blog/my-runbook/" target="_blank">here.</a></span></p>
         @endif
     </main>
 </x-layout>

@@ -1,12 +1,25 @@
-# Laravel From Scratch Blog Demo Project
+# Laravel DevOps Demo Project
 
 ![PUSH Workflow](https://github.com/HamiltonMultimedia/Laravel-Blog/actions/workflows/push_workflow.yml/badge.svg)
 
-http://laravelfromscratch.com
+Cloned from original [Laravel from Scratch project](http://laravelfromscratch.com)
+
+I added darkmode via [Tailwindcss](https://tailwindcss.com/)
+
+![Added Darkmode](public/images/screen-shot.png)
 
 ## Installation
 
-First clone this repository, install the dependencies, and setup your .env file.
+First clone this repository, switch to the darkmode branch install the dependencies, and setup your .env file.
+
+```
+git clone git@github.com:HamiltonMultimedia/Laravel-Blog.git blog
+git checkout darkmode
+composer install
+cp .env.example .env
+```
+
+Or clone [the original Laravel from Scratch](http://laravelfromscratch.com) repository, install the dependencies, and setup your .env file.
 
 ```
 git clone git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog
